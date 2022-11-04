@@ -6,4 +6,4 @@ ___Dataset source___ - https://www.kaggle.com/datasets/devzohaib/dog-emotions-pr
 ![Dataset picture](imgs/dataset-cover.jpg)
 
 ## NN test
-![Example of NN work](imgs/example.png)
+![Example of NN work](imgs/example2.png)
